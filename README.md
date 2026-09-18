@@ -1,3 +1,5 @@
+[Русский](README.ru.md)
+
 # TeleWatch Bridge ⌚📡
 
 [![Platform](https://img.shields.io/badge/platform-Android%2012%2B%20(API%2031%2B)-green.svg)](https://android.com)
